@@ -1,0 +1,5 @@
+project: ucall
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
