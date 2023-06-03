@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(mayhem-cmake-example)
+project(ucall)
 
 add_executable(fuzzme fuzzme.c)
 
